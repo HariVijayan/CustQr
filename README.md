@@ -1,6 +1,6 @@
 This repository contains the source code for a customized qr code generating website.
 
-** To run the website, download the sourcecode zip and run it as a springboot application in any IDE. Preffered IDE: Eclipse IDE for Enterprise Java and Web Developers Version: 2023-12 (4.30.0) **
+**To run the website, download the sourcecode zip and run it as a springboot application in any IDE. Preffered IDE: Eclipse IDE for Enterprise Java and Web Developers Version: 2023-12 (4.30.0)**
 
 Qr code is generated using open source ZXing library by google.
 
